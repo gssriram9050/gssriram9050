@@ -1,22 +1,13 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there%2C+I'm+Sriram+G+S+%F0%9F%91%8B;B.Tech+IT+%7C+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Sriram%20G%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20IT%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Hello+World!+I'm+Sriram+%F0%9F%91%8B;AI+%7C+Web+Dev+%7C+IoT+%7C+Competitive+Programmer;1200%2B+Problems+Solved+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=gssriram9050&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/gssriram9050?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/gssriram9050)
-
-<br/>
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gssriram9050/gssriram9050/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gssriram9050/gssriram9050/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gssriram9050/gssriram9050/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
@@ -30,10 +21,11 @@ const sriram = {
   college     : "Karpagam College of Engineering",
   degree      : "B.Tech Information Technology (2025–2029)",
   location    : "Coimbatore, Tamil Nadu, India 🇮🇳",
-  cgpa        : "8.50 / 10.0",
-  focus       : ["AI/ML", "Web Development", "Competitive Programming", "IoT"],
-  currentlyOn : "Infosys Springboard Internship",
-  funFact     : "I've solved 1200+ coding problems and still going! 🚀",
+  cgpa        : "8.50 / 10.0  |  Merit Scholarship Recipient",
+  internships : ["Infosys Springboard (May 2026–Present)", "Skill Wallet GenAI (Mar–Apr 2026)"],
+  interests   : ["Artificial Intelligence", "Web Development", "IoT", "Competitive Programming"],
+  funFact     : "1200+ problems solved and still grinding! 💪",
+  portfolio   : "https://gssriram.my.canva.site",
 };
 ```
 
@@ -43,7 +35,7 @@ const sriram = {
 
 <div align="center">
 
-**Languages**
+**💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -52,7 +44,7 @@ const sriram = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Web & Frameworks**
+**🌐 Web & Frameworks**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,7 +53,7 @@ const sriram = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Cloud, Tools & Platforms**
+**☁️ Cloud, DevOps & Tools**
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -83,11 +75,11 @@ const sriram = {
 <div align="center">
 
 | 🔷 Project | 🛠 Tech Stack | 📝 Description |
-|:-----------|:--------------|:----------------|
-| **[Buddy – Campus Community Platform](https://github.com/gssriram9050)** | React, TypeScript, Gemini API, Tailwind | A responsive campus networking app with AI-powered smart assistance and resource sharing |
-| **[JARVIS AI Assistant](https://github.com/gssriram9050)** | Python, AI, Automation | A personal AI assistant with voice interaction, workspace management, and task automation |
-| **[LiFi Communication System](https://github.com/gssriram9050)** | Arduino, C++, Embedded Systems | Wireless data transmission prototype using Visible Light Communication (LED + LDR) |
-| **[Power BI Dashboard Portfolio](https://github.com/gssriram9050)** | Power BI, Data Analytics | Interactive dashboards with custom KPIs and trend visualizations for data-driven decisions |
+|:-----------|:-------------|:----------------|
+| **[Buddy – Campus Community Platform](https://github.com/gssriram9050)** | React · TypeScript · Gemini API · Tailwind | Responsive campus networking app with AI-powered smart assistance & resource sharing |
+| **[JARVIS AI Assistant](https://github.com/gssriram9050)** | Python · AI · Automation | Personal AI assistant with voice interaction, workspace management & task automation |
+| **[LiFi Communication System](https://github.com/gssriram9050)** | Arduino · C++ · Embedded Systems | Wireless data transmission prototype via Visible Light Communication (LED + LDR) |
+| **[Power BI Dashboard Portfolio](https://github.com/gssriram9050)** | Power BI · Data Analytics | Interactive dashboards with custom KPIs and trend visualizations |
 
 </div>
 
@@ -97,12 +89,13 @@ const sriram = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gssriram9050&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gssriram9050&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=gssriram9050&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gssriram9050&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888" width="48%" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gssriram9050&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gssriram9050&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" width="98%" />
 
 </div>
 
@@ -112,17 +105,56 @@ const sriram = {
 
 <div align="center">
 
-| Platform | Handle | Achievement |
-|:---------|:-------|:------------|
-| 🟡 **LeetCode** | [gssriram](https://leetcode.com/u/gssriram) | Rating **1650+** · **1200+** Problems Solved |
-| 🟤 **CodeChef** | [gssriram](https://codechef.com/users/gssriram) | ⭐⭐ **2-Star** · Rating **1460+** |
-| 🔵 **Codeforces** | gssriram | Rating **1130+** |
-| 🟢 **GeeksforGeeks** | [gssriram](https://geeksforgeeks.org/profile/gssriram) | Active Problem Solver |
-| 🟣 **HackerRank** | [gssriram](https://hackerrank.com/profile/gssriram) | Consistent Programmer |
+### 🎯 Unified Coding Portfolio
+[![Codolio](https://img.shields.io/badge/Codolio-gssriram-00D9FF?style=for-the-badge&logoColor=white)](https://codolio.com/profile/gssriram)
 
 <br/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/gssriram?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8)
+### 📈 Platform Ratings & Achievements
+
+| Platform | Badge | Handle | Rating | Achievement |
+|:---------|:------|:-------|:-------|:------------|
+| 🟡 **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/gssriram) | [gssriram](https://leetcode.com/u/gssriram) | **1650+** | 1200+ Problems Solved |
+| 🟤 **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-⭐⭐_2--Star-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/gssriram) | [gssriram](https://codechef.com/users/gssriram) | **1460+** | ⭐⭐ 2-Star Programmer |
+| 🔵 **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gssriram) | gssriram | **1130+** | Newbie → Pupil |
+| 🟢 **GeeksforGeeks** | [![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/profile/gssriram) | [gssriram](https://geeksforgeeks.org/profile/gssriram) | Active | Problem Solver |
+| 🟣 **HackerRank** | [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/gssriram) | [gssriram](https://hackerrank.com/profile/gssriram) | Active | Consistent Programmer |
+
+<br/>
+
+### 🔥 LeetCode Stats & Heatmap
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gssriram?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8&sheets=https://cdn.jsdelivr.net/gh/JacobLinCool/LeetCode-Stats-Card@main/src/themes/dark.css)](https://leetcode.com/u/gssriram)
+
+<br/>
+
+### ⭐ CodeChef Rating Card
+
+[![CodeChef](https://cp-logo.vercel.app/codechef/gssriram?logo=true)](https://codechef.com/users/gssriram)
+
+<br/>
+
+### 🔵 Codeforces Rating Card
+
+[![Codeforces](https://cp-logo.vercel.app/codeforces/gssriram?logo=true)](https://codeforces.com/profile/gssriram)
+
+<br/>
+
+### 🏅 HackerRank Badges
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/gssriram)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/gssriram)
+[![HackerRank](https://img.shields.io/badge/HackerRank-C++-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/gssriram)
+
+<br/>
+
+### 📊 Overall Solved Problems Summary
+
+![Problems](https://img.shields.io/badge/Total_Problems_Solved-1200%2B-FF6B6B?style=for-the-badge&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode_Rating-1650%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![CodeChef](https://img.shields.io/badge/CodeChef-2★_|_1460%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1130%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![Streak](https://img.shields.io/badge/LinkedIn_Streak-200%2B_Days-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </div>
 
@@ -153,20 +185,18 @@ const sriram = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gssriramofficial)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gssriram9050)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://gssriram.my.canva.site)
+[![Codolio](https://img.shields.io/badge/Codolio-00D9FF?style=for-the-badge&logoColor=white)](https://codolio.com/profile/gssriram)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gssriram)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/gssriram)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/gssriram)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/profile/gssriram)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/gssriram)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gssriramofficial@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gssriramofficial@gmail.com)
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+build+something+awesome!+%F0%9F%9A%80;Open+to+collaborations+%26+opportunities!+%F0%9F%92%BC" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+build+something+awesome!+%F0%9F%9A%80;Open+to+collaborations+%26+opportunities!+%F0%9F%92%BC;Keep+coding%2C+keep+growing!+%F0%9F%94%A5" alt="Footer Typing" />
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
