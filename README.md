@@ -25,7 +25,7 @@ const sriram = {
   internships : ["Infosys Springboard (May 2026–Present)", "Skill Wallet GenAI (Mar–Apr 2026)"],
   interests   : ["Artificial Intelligence", "Web Development", "IoT", "Competitive Programming"],
   funFact     : "1200+ problems solved and still grinding! 💪",
-  portfolio   : "https://gssriram.my.canva.site",
+  portfolio   : "https://gssriram.live",
 };
 ```
 
